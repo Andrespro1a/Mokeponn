@@ -1,2 +1,0 @@
-# Mokeponn
-Juego de Mkepones
